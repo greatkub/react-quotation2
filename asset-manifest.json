@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-quotation2/static/css/main.1a8a0596.css",
+    "main.js": "/react-quotation2/static/js/main.3785bdde.js",
+    "index.html": "/react-quotation2/index.html",
+    "main.1a8a0596.css.map": "/react-quotation2/static/css/main.1a8a0596.css.map",
+    "main.3785bdde.js.map": "/react-quotation2/static/js/main.3785bdde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.3785bdde.js"
+  ]
+}
